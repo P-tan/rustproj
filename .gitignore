@@ -1,2 +1,2 @@
-hello_world/target/
-hello_world/Cargo.lock
+target/
+*.lock
